@@ -8,6 +8,6 @@ A key innovation of Secura.AI lies in its proposed transaction security architec
 
 Although the project was not fully implemented due to financial and infrastructural constraints, Secura.AI emphasizes system design, feasibility analysis, and security-first thinking. The focus remained on defining robust workflows, identifying real-world banking pain points, and proposing technically viable solutions aligned with existing financial regulations and infrastructure.
 
-Secura.AI was presented at Eureka 2024, where it underwent early-stage evaluation. While the project did not progress further in selection rounds, it served as a strong exercise in problem-solving, system architecture design, and applied AI thinking within the fintech domain.
+Secura.AI was presented at **Eureka 2024**, where it underwent early-stage evaluation. While the project did not progress further in selection rounds, it served as a strong exercise in problem-solving, system architecture design, and applied AI thinking within the fintech domain.
 
 This repository documents the concept, system architecture, workflows, and future scope of Secura.AI, including potential extensions such as blockchain integration, multi-bank interoperability, and regulatory compliance layers.
