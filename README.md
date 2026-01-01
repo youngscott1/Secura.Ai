@@ -1,4 +1,4 @@
-#Secura.AI – Secure Financial Transactions & Advisory System
+# **Secura.AI – Secure Financial Transactions & Advisory System**
 
 Secura.AI is a conceptual financial security and advisory platform designed to address critical challenges in modern digital transactions, including transaction fraud, incorrect fund transfers, and lack of transparent consumer-side protection. The project explores how AI-driven advisory systems and advanced encryption mechanisms can be combined to improve trust, security, and user confidence in digital banking ecosystems.
 
